@@ -60,7 +60,7 @@ By turning raw data into charts and visuals, the dashboard supports better decis
 
 **Trend Analysis:** SQL queries helped in identifying trends like most popular order days and top-selling pizzas over time.
 
-** Example Use Cases:**
+**Example Use Cases:**
 - Finding the top 5 best-selling pizzas
 - Calculating the total sales per month
 - Identifying which day of the week gets the most orders
