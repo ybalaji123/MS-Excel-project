@@ -1,4 +1,4 @@
-# MS Excel Dashboard & Using Excel & SQL Analysis
+# MS Excel Dashboard & Pizza Analysis Using Excel & SQL(SSMS)
 
 ![picture logo](https://github.com/ybalaji123/MS-Excel-project/blob/main/pizza_logo1.jpg)
 
@@ -8,7 +8,7 @@ Click on the following link to download dataset
 
 # Process of Installing
 Click the following link to download and install SQL Server Management Studio (SSMS).
-- **Install SSMS** [Click Here](
+- **Install SSMS:** [Click Here](https://www.youtube.com/watch?v=iaUXjTL_F9U)
   
 # Overview
 This project analyzes the sales of different types of pizzas over time. It includes details like how many pizzas were sold, the revenue made, the most and least popular pizzas, and daily order trends. The goal is to understand customer preferences and improve business decisions.
