@@ -2,6 +2,10 @@
 
 ![picture logo](https://github.com/ybalaji123/MS-Excel-project/blob/main/pizza_logo1.jpg)
 
+# DataSet
+Click on the following link to download dataset
+**Dataset:** [Click Here](https://github.com/ybalaji123/MS-Excel-project/blob/main/pizza_sales%20excel%20file.csv)
+
 # Overview
 This project analyzes the sales of different types of pizzas over time. It includes details like how many pizzas were sold, the revenue made, the most and least popular pizzas, and daily order trends. The goal is to understand customer preferences and improve business decisions.
 
