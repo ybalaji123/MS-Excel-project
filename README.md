@@ -66,6 +66,9 @@ By turning raw data into charts and visuals, the dashboard supports better decis
 - Identifying which day of the week gets the most orders
 - Checking the average number of pizzas sold per order
 
+# Dashboard
+![dashboard](https://github.com/ybalaji123/MS-Excel-project/blob/main/Dashboard.png)
+
 # Conclusion
 This project helped analyze pizza sales data using SQL and Excel. The dashboard provided a visual overview of key metrics like revenue, order trends, and best-selling pizzas. By combining data analysis and visualization, the project gives useful insights that can help improve business decisions, customer satisfaction, and sales performance.
 
